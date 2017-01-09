@@ -60,7 +60,31 @@ void print_screen(int player_stats[])
 		cout << endl;
 	if (encounters)
 		cout << "1.Attack    	2.Potions		3.Flee		4.Defend" << endl;
-	
+
+}
+void ManaPotion(int player_stats[])
+{
+    for(int i = 0;i < 15;i++){
+        player_stats[1]++;
+    }
+}
+void HealthPotion(int player_stats[])
+{
+    for(int i = 0;i < 15;i++){
+        player_stats[1]++;
+    }
+}
+void AttackDMGincrese(int player_stats[])
+{
+    for(int i = 0;i < 15;i++){
+        player_stats[2]++;
+    }
+}
+void RevivePotion(int player_stats[])
+{
+    for(int i = 0;i < 100;i++){
+        player_stats[1]++;
+    }
 }
 int main()
 {
@@ -68,8 +92,12 @@ int main()
 	int player_stats[PLAYER_SIZE] = { 100, 100, 15, 1, 0, 1 };
 	srand(time(0));
 	print_screen(player_stats);
-	system("pause");
-	return 0;
-
-
+	ManaPotion(player_stats[]);
+	HealthPotion(player_stats[]);
+	AttackDMGincrese(player_stats[]);
+	RevivePotion(player_stats[]);
+    if (AttackDMGincrese() == true && /* 3 Moves are done */){
+        player_stats[2] == 15;
+    }
+    return 0;
 }
