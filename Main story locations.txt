@@ -1,0 +1,20 @@
+0 Alheaven f
+1 Alheaven Warrior training room f
+2 Forest of Alduin t
+3 Krog village f
+4 Dessert of Tranquility f 
+5 Oasis of Ra t
+6 Dungeon of Mil Huzir f 
+7 Oasis of Ra f
+8 City of Gul Domir t 
+9 Warrior guild f
+10 Lake of Sulin Gon Dur f
+11 Redrige Mountains t
+12 Westfall f
+13 Twilight Highlands f
+14 Abandanded Castle t
+15 Basemenent f
+16 Portal to Gilneas f
+17 Gilneas Highlands t
+18 Tol Barad f
+19 Village of Alheaven f
