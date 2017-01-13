@@ -1,20 +1,20 @@
-0 Alheaven t 
-1 Alheaven Mage training room t 
-2 Forest of Alduin f
-3 Krog village t
-4 Dessert of Tranquility f
-5 Oasis of Ra t
-6 Dungeon of Mil Huzir f 
-7 Oasis of Ra t
-8 City of Gul Domir f 
-9 Mage guild t
-10 Lake of Sulin Gon Dur f
-11 Redrige Mountains t
-12 Westfall f
-13 Twilight Highlands t
-14 Abandanded Castle f
-15 Basemenent t
-16 Portal to Gilneas f
-17 Gilneas Highlands t
-18 Tol Barad f
-19 Village of Alheaven f
+0 Alheaven true 
+1 Alheaven Mage training room true 
+2 Forest of Alduin false
+3 Krog village true
+4 Dessert of Tranquility false
+5 Oasis of Ra true
+6 Dungeon of Mil Huzir false 
+7 Oasis of Ra true
+8 City of Gul Domir false 
+9 Mage guild true
+10 Lake of Sulin Gon Dur false
+11 Redrige Mountains true
+12 Westfall false
+13 Twilight Highlands true
+14 Abandanded Castle false
+15 Basemenent true
+16 Portal to Gilneas false
+17 Gilneas Highlands true
+18 Tol Barad false
+19 Village of Alheaven false
