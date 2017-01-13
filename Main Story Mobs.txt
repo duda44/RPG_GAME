@@ -1,0 +1,20 @@
+0 Dreampaw 100 55 12 1 7 4 1
+1 Venomstep 100 23 6 3 15 2 1
+2 Gravebeing 100 65 7 4 19 1 1
+3 Cinderface 100 61 9 2 15 3 1
+4 The False Teeth 100 19 13 2 6 3 1
+5 The Sick Beast 100 97 4 1 29 4 1
+6 The Bleak Face 100 140 2 3 34 1 1
+7 The Masked Spite Hog 100 76 8 2 21 3 1
+8 The Ebon Mountain Bee 100 83 9 1 16 4 1
+9 The Painted Dire Gargoyle 100 15 12 4 9 1 1
+10 Phasebeing 100 34 4 3 30 2 1
+11 Aurawing 100 15 11 1 15 4 1
+12 Cryptpod 100 91 13 2 93 1
+13 Gutpod 100 35 13 4 10 1 1
+14 The Forsaken Monster 100 21 12 1 7 4 1
+15 The Dirty Weirdo 100 28 4 2 32 3 1
+16 The Dead Mutt 100 74 7 3 17 2 1
+17 The Bloodthirsty Moon Ape 100 96 3 2 34 3 1
+18 The Greater Dawn Cobra 100 73 4 1 31 4 1
+19 The Grisly Venom Anaconda 100 82 3 2 32 3 1
