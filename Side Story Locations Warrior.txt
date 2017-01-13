@@ -1,0 +1,10 @@
+0 Alheaven Library 
+1 Alhevan Weapon Shop 
+2 Krog Village well
+3 Sigmund's shop of tinker stuff 
+4 Tomb of Dessert Kings 
+5 Warrior Arena 
+6 Redrige Mountains cave 
+7 Highlands Destroyes casttle 
+8 Amulet of Zur Kan 
+9 Abandoned BattleField 
